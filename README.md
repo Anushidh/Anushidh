@@ -38,9 +38,9 @@ I'm a results-driven software engineer specializing in building high-performance
 
 ### 📫 Let's Connect!
 
-*   💼 **LinkedIn:** [linkedin.com/in/your-profile](#) *(Update this link!)*
-*   🌐 **Portfolio:** [my-portfolio-beta-ten-90.vercel.app](https://my-portfolio-beta-ten-90.vercel.app/)
-*   ✉️ **Email:** [anushidh101@gmail.com](mailto:anushidh101@gmail.com)
+*   💼 **LinkedIn:** www.linkedin.com/in/anushidh-a-p-9a43
+*   🌐 **Portfolio:** https://my-portfolio-beta-ten-90.vercel.app/
+*   ✉️ **Email:** anushidh101@gmail.com
 
 <br/>
 
